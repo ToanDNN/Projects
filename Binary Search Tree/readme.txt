@@ -1,0 +1,1 @@
+using a binary search tree to store and look for movie titles
